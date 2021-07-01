@@ -1,3 +1,3 @@
 
-def new_namber(a, b):
-    return a + b
+def new_number(a, b):
+    return a - b
